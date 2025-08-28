@@ -1,4 +1,4 @@
-package com.navc.demo;
+package com.navc.demo.dto;
 
 public class GatoDto {
 	private String nombre = "Agata";
